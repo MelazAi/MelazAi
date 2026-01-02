@@ -12,7 +12,7 @@
 
 ## 🧠 About Us
 
-I am a passionate developer and AI enthusiast focused on creating meaningful and responsible AI solutions. My work spans across **AI agents**, **machine learning experimentation**, and **open source software development** aimed at practical innovation. I enjoy learning new technologies and applying them to real-world problems with an emphasis on clarity, reusability, and impact.
+We are passionate developer and AI enthusiast focused on creating meaningful and responsible AI solutions. Our work spans across **AI agents**, **machine learning experimentation**, and **open source software development** aimed at practical innovation. We enjoy learning new technologies and applying them to real-world problems with an emphasis on clarity, reusability, and impact.
 
 ---
 
@@ -37,7 +37,7 @@ I am a passionate developer and AI enthusiast focused on creating meaningful and
 
 ## 🛠 Tech Stack
 
-Here are some of the tools, languages, and frameworks I work with or am actively learning:
+Here are some of the tools, languages, and frameworks we work with or am actively learning:
 
 | Category | Skills |
 |----------|--------|
@@ -68,7 +68,7 @@ Here are some of the tools, languages, and frameworks I work with or am actively
 
 ## 📫 Let’s Collaborate
 
-I’m open to:
+We are open to:
 - AI/ML collaborations
 - Open source contributions
 - Discussions about ethical AI

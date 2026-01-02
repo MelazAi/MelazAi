@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **MelazAi**
+# 👋 Welcome to **Tzevaotai**
 ### 🌐 Building & Exploring at the Intersection of AI, Machine Learning, and Ethical Systems
 
 🔗 Website: https://tzevaotai.com/  

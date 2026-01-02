@@ -1,7 +1,7 @@
 # 👋 Welcome to **Tzevaotai**
 ![](https://github.com/MelazAi/MelazAi/blob/main/welcome1.png?raw=true)
 
-### 🌐 Building & Exploring at the Intersection of AI, Machine Learning, and Ethical Systems
+### Transform Any WebsiteInto a Powerful PWA 
 
 🔗 Website: https://tzevaotai.com/  
 🔗 GitHub: https://github.com/MelazAi

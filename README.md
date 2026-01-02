@@ -5,10 +5,12 @@
 
 🔗 Website: https://tzevaotai.com/  
 🔗 GitHub: https://github.com/MelazAi
+🔗 X: https://twitter.com/tzevaotai
+🔗 LinkedIn: https://linkedin.com/company/tzevaotai
 
 ---
 
-## 🧠 About Me
+## 🧠 About Us
 
 I am a passionate developer and AI enthusiast focused on creating meaningful and responsible AI solutions. My work spans across **AI agents**, **machine learning experimentation**, and **open source software development** aimed at practical innovation. I enjoy learning new technologies and applying them to real-world problems with an emphasis on clarity, reusability, and impact.
 
